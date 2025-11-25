@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MUT-00\\Desktop\\1111\\miia0106-a\\lab02\\tast1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86D21E0B-02B2-4E5B-B0BA-48CD83DDFCB5}|..\\varaiblestast3\\varaiblestast3.vcxproj|C:\\Users\\MUT-00\\Desktop\\1111\\miia0106-a\\lab02\\varaiblestast3\\varaiblestast3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA8341A-9DE9-4D3B-AA12-8EED6BB13DBC}|..\\ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\MUT-00\\Desktop\\1111\\miia0106-a\\lab02\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFEE00-13FF-45EF-A04F-8C384A8F7C2F}|..\\varaiblestast2\\varaiblestast2.vcxproj|C:\\Users\\MUT-00\\Desktop\\1111\\miia0106-a\\lab02\\varaiblestast2\\varaiblestast2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEF5861-BEBE-4675-B2BA-FF7D0F6460EC}|..\\variables1\\variables1.vcxproj|C:\\Users\\MUT-00\\Desktop\\1111\\miia0106-a\\lab02\\variables1\\variables1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F34B7-31D5-4E61-8D67-77CEF008070E}|tast1.vcxproj|C:\\Users\\MUT-00\\Desktop\\1111\\miia0106-a\\lab02\\tast1\\tast1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E9F34B7-31D5-4E61-8D67-77CEF008070E}|tast1.vcxproj|solutionrelative:tast1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tast1.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\Desktop\\1111\\miia0106-a\\lab02\\tast1\\tast1.cpp",
+              "RelativeDocumentMoniker": "tast1.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\Desktop\\1111\\miia0106-a\\lab02\\tast1\\tast1.cpp",
+              "RelativeToolTip": "tast1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T08:58:08.469Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "varaiblestast3.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\Desktop\\1111\\miia0106-a\\lab02\\varaiblestast3\\varaiblestast3.cpp",
+              "RelativeDocumentMoniker": "..\\varaiblestast3\\varaiblestast3.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\Desktop\\1111\\miia0106-a\\lab02\\varaiblestast3\\varaiblestast3.cpp",
+              "RelativeToolTip": "..\\varaiblestast3\\varaiblestast3.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T09:50:27.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "varaiblestast2.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\Desktop\\1111\\miia0106-a\\lab02\\varaiblestast2\\varaiblestast2.cpp",
+              "RelativeDocumentMoniker": "..\\varaiblestast2\\varaiblestast2.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\Desktop\\1111\\miia0106-a\\lab02\\varaiblestast2\\varaiblestast2.cpp",
+              "RelativeToolTip": "..\\varaiblestast2\\varaiblestast2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T09:49:44.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\Desktop\\1111\\miia0106-a\\lab02\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "..\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\Desktop\\1111\\miia0106-a\\lab02\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "..\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T09:47:17.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "variables1.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\Desktop\\1111\\miia0106-a\\lab02\\variables1\\variables1.cpp",
+              "RelativeDocumentMoniker": "..\\variables1\\variables1.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\Desktop\\1111\\miia0106-a\\lab02\\variables1\\variables1.cpp",
+              "RelativeToolTip": "..\\variables1\\variables1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T09:41:49.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
